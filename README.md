@@ -1,7 +1,7 @@
 # Quản Lý Sinh Viên (Student Management System)  
 
 ## Giới Thiệu  
-**Student Management System** là một ứng dụng quản lý sinh viên được phát triển bằng Java, sử dụng mô hình lập trình hướng đối tượng (OOP) kết hợp với MySQL để lưu trữ dữ liệu. Ứng dụng cung cấp các chức năng cơ bản như thêm, sửa, xóa, tìm kiếm sinh viên và hiển thị danh sách sinh viên.  
+Là một ứng dụng quản lý sinh viên được phát triển bằng Java, sử dụng mô hình lập trình hướng đối tượng (OOP) kết hợp với MySQL để lưu trữ dữ liệu. Ứng dụng cung cấp các chức năng cơ bản như thêm, sửa, xóa, tìm kiếm sinh viên và hiển thị danh sách sinh viên.  
 
 ## Công Nghệ Sử Dụng  
 - **Ngôn ngữ lập trình**: Java  
@@ -15,8 +15,4 @@
 ✅ Hiển thị danh sách sinh viên  
 ✅ Tìm kiếm sinh viên theo ID  
 ✅ Cập nhật thông tin sinh viên thông qua ID  
-✅ Xóa sinh viên theo ID  
-
-## Liên Hệ  
-📧 Email: nvan260602@gmail.com  
-🔗 Facebook: https://www.facebook.com/an.nv26 
+✅ Xóa sinh viên theo ID 
